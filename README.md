@@ -28,3 +28,15 @@
 #### Диаграммa случаев использования
 ![](#usercase.jpg)
 
+#### Screen flow
+
+Экран администратора
+![](#admin_screen.jpg)
+
+Экран пользователя
+![](#user_screen.jpg)
+
+
+#### Wireframe
+
+![](#gui.jpg)
